@@ -42,19 +42,16 @@
 class Connor:
     def __init__(self):
         self.name        = "Connor"
-        self.age         = 19
+        self.age         = 20
         self.university  = "University of York — Computer Science (Year 1)"
         self.startup     = "Social Hub 🚀  (Co-Founder & Director)"
         self.languages   = ["Python", "Java", "JavaScript", "TypeScript"]
         self.stack       = ["Next.js", "Firebase", "React"]
-        self.codewars    = "Top 3–4% globally 🔥"
         self.music       = "Grade 8 Guitar · Grade 5 Piano 🎸"
-        self.car         = "Modified Mazda MX-5 ND RF 🚗"
-        self.chess_elo   = "enough to build an AI that beats me"
+        self.car         = "MX-5 RF 🚗"
 
     def current_move(self):
         return [
-            "Building a Chess AI (Minimax + Alpha-Beta Pruning)",
             "Scaling Social Hub to UK universities",
             "Surviving first-year exams",
         ]
