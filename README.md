@@ -2,13 +2,7 @@
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║        ♔  CONNOR  ·  CS @ YORK  ·  BUILDER  ♚           ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="banner.png" alt="Connor · CS @ York · Builder" width="600"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=600&lines=Computer+Science+%40+University+of+York;Chess+AI+Developer+%7C+Minimax+%2B+Alpha-Beta+Pruning;Co-Founder+%40+Social+Hub;Top+3%25+on+Codewars+%F0%9F%94%A5;Guitar+Grade+8+%7C+always+thinking+two+moves+ahead)](https://git.io/typing-svg)
 
@@ -44,17 +38,7 @@ class Connor:
 
 ## ♞ Featured Project — Chess AI
 
-```
-  ┌─────────────────────────────────────────────────────┐
-  │                                                     │
-  │   ♔  CHESS ENGINE  —  73 / 75  (A-Level NEA)  ♔   │
-  │                                                     │
-  │   Algorithm   →  Minimax + Alpha-Beta Pruning       │
-  │   Networking  →  Client-Server Architecture         │
-  │   Interface   →  Full GUI with legal move logic     │
-  │                                                     │
-  └─────────────────────────────────────────────────────┘
-```
+<img src="chess-engine-box.png" alt="Chess Engine — 73/75" width="600"/>
 
 [![Chess AI Repo](https://img.shields.io/badge/♟_View_Chess_AI_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ConnConn24)
 
@@ -62,8 +46,8 @@ class Connor:
 
 ## 🚀 Social Hub
 
-**The operating system for university societies.**
-One platform for communications, events & membership payments — built for UK students, by students.
+> **The operating system for university societies.**
+> One platform for communications, events & membership payments — built for UK students, by students.
 
 ```
   Co-Founder & Director  ·  Next.js  ·  Firebase  ·  Launching @ York
@@ -97,10 +81,8 @@ One platform for communications, events & membership payments — built for UK s
 
 ---
 
-```
-  ♟  e2 → e4   ·   Your move.
-```
-
 *"Chess is the art of analysis."* — Mikhail Botvinnik
+
+♟ &nbsp;e2 → e4 &nbsp;·&nbsp; Your move.
 
 </div>
