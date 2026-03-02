@@ -16,11 +16,11 @@
 
 ---
 
-## ♟️ The Immortal Game — Anderssen vs Kieseritzky, 1851
+## ♟️ Chess
 
 <div align="center">
 
-<img src="assets/chess.gif" alt="Chess AI — The Immortal Game playing out" width="600"/>
+<img src="assets/chess.png" alt="Chess AI" width="600"/>
 
 </div>
 
