@@ -12,17 +12,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=600&lines=Computer+Science+%40+University+of+York;Chess+AI+Developer+%7C+Minimax+%2B+Alpha-Beta+Pruning;Co-Founder+%40+Social+Hub;Top+3%25+on+Codewars+%F0%9F%94%A5;Guitar+Grade+8+%7C+always+thinking+two+moves+ahead)](https://git.io/typing-svg)
 
-</div>
-
 ---
 
-## ♟️ Chess
+## ♟️ The Immortal Game — Anderssen vs Kieseritzky, 1851
 
-<div align="center">
-
-<img src="assets/chess.png" alt="Chess AI" width="600"/>
-
-</div>
+<img src="chess.gif" alt="Chess AI — The Immortal Game" width="600"/>
 
 ---
 
@@ -50,8 +44,6 @@ class Connor:
 
 ## ♞ Featured Project — Chess AI
 
-<div align="center">
-
 ```
   ┌─────────────────────────────────────────────────────┐
   │                                                     │
@@ -66,14 +58,12 @@ class Connor:
 
 [![Chess AI Repo](https://img.shields.io/badge/♟_View_Chess_AI_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ConnConn24)
 
-</div>
-
 ---
 
 ## 🚀 Social Hub
 
-> **The operating system for university societies.**  
-> One platform for communications, events & membership payments — built for UK students, by students.
+**The operating system for university societies.**
+One platform for communications, events & membership payments — built for UK students, by students.
 
 ```
   Co-Founder & Director  ·  Next.js  ·  Firebase  ·  Launching @ York
@@ -83,8 +73,6 @@ class Connor:
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -92,34 +80,22 @@ class Connor:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-</div>
-
 ---
 
 ## 📊 Stats
-
-<div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=ConnConn24&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&rank_icon=github" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnConn24&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a0a0a0" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ConnConn24&theme=transparent&hide_border=true&stroke=444&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=a0a0a0&dates=a0a0a0&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
-</div>
-
 ---
 
 ## 🏆 Codewars
 
-<div align="center">
-
 [![Codewars](https://www.codewars.com/users/Zombie242/badges/large)](https://www.codewars.com/users/Zombie242)
 
-</div>
-
 ---
-
-<div align="center">
 
 ```
   ♟  e2 → e4   ·   Your move.
