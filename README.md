@@ -1,5 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/25693016/README.1.md)
-<!-- Chess Profile README for ConnConn24 -->
 
 <div align="center">
 
