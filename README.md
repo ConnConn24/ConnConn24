@@ -85,7 +85,7 @@ class Connor:
 
 <div align="center">
 
-[![Codewars](https://www.codewars.com/users/Zombie242/badges/large)](https://www.codewars.com/users/Zombie242)
+[![Codewars](https://www.codewars.com/users/ConnConn24/badges/large)](https://www.codewars.com/users/ConnConn24)
 
 </div>
 
