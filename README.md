@@ -2,25 +2,13 @@
 
 <div align="center">
 
-<img src="assets/banner.png" alt="Connor · CS @ York · Builder" width="600"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=600&lines=Computer+Science+%40+University+of+York;Chess+AI+Developer+%7C+Minimax+%2B+Alpha-Beta+Pruning;Co-Founder+%40+Social+Hub;Top+3%25+on+Codewars+%F0%9F%94%A5;Guitar+Grade+8+%7C+always+thinking+two+moves+ahead)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## ♟️ Chess
-
-<div align="center">
-
-<img src="assets/chess.png" alt="Chess AI" width="600"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Connor+Hanson;Computer+Science+%40+University+of+York)](https://git.io/typing-svg)
 
 </div>
 
 ---
-
-## 👤 About Me
+## About Me
 
 ```python
 class Connor:
@@ -28,21 +16,21 @@ class Connor:
         self.name        = "Connor"
         self.age         = 20
         self.university  = "University of York — Computer Science (Year 1)"
-        self.startup     = "Social Hub 🚀  (Co-Founder & Director)"
+        self.startup     = "Social Hub  (Co-Founder & Director)"
         self.languages   = ["Python", "Java", "JavaScript", "TypeScript"]
         self.stack       = ["Next.js", "Firebase", "React"]
-        self.music       = "Grade 8 Guitar · Grade 5 Piano 🎸"
+        self.music       = "Grade 8 Guitar · Grade 5 Piano"
 
     def current_move(self):
         return [
-            "Scaling Social Hub to UK universities",
-            "Surviving first-year exams",
+            "Scaling Social Hub",
+            "Securing a first",
         ]
 ```
 
 ---
 
-## ♞ Featured Project — Chess AI
+## Featured Project — Chess AI
 
 <div align="center">
 
@@ -54,18 +42,18 @@ class Connor:
 
 ---
 
-## 🚀 Social Hub
+## Social Hub
 
 > **The operating system for university societies.**  
-> One platform for communications, events & membership payments — built for UK students, by students.
+> One platform for communications, events & membership payments. For students, by students.
 
 ```
-  Co-Founder & Director  ·  Next.js  ·  Firebase  ·  Launching @ York
+  Co-Founder & Director
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -80,7 +68,7 @@ class Connor:
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
@@ -93,7 +81,7 @@ class Connor:
 
 ---
 
-## 🏆 Codewars
+## Codewars
 
 <div align="center">
 
@@ -102,11 +90,3 @@ class Connor:
 </div>
 
 ---
-
-<div align="center">
-
-*"Chess is the art of analysis."* — Mikhail Botvinnik
-
-♟ &nbsp;e2 → e4 &nbsp;·&nbsp; Your move.
-
-</div>
