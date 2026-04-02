@@ -30,7 +30,7 @@ class Connor:
 
 ---
 
-## Featured Project — Chess AI
+## Featured Project: Chess AI
 
 <div align="center">
 
@@ -39,17 +39,6 @@ class Connor:
 [![Chess AI Repo](https://img.shields.io/badge/♟_View_Chess_AI_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ConnConn24)
 
 </div>
-
----
-
-## Social Hub
-
-> **The operating system for university societies.**  
-> One platform for communications, events & membership payments. For students, by students.
-
-```
-  Co-Founder & Director
-```
 
 ---
 
